@@ -147,11 +147,11 @@ thinc==8.3.2
 threadpoolctl==3.5.0
 tifffile==2024.9.20
 tokenizers==0.20.1
-torch==2.5.0+cu118
-torchaudio==2.5.0
+torch==2.4.1+cu118
+torchaudio==2.4.1
 torchdiffeq==0.2.4
 torchsde==0.2.6
-torchvision==0.20.0
+torchvision==0.19.1
 tqdm==4.66.5
 trainer==0.0.20
 trampoline==0.1.2
